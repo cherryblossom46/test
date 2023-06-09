@@ -1,0 +1,23 @@
+@media screen and (max-width:1200px){
+
+}
+@media screen and (max-width:600px) {
+  .main ul{
+    display:block;
+  }
+  .main li{
+  
+    width:90%;
+  }
+  .profile{
+    display:block;
+   }
+
+  .profile-contents{
+    text-align:center;
+  
+  }
+  h3{
+    margin-left:50px;
+  }
+}
